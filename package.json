@@ -1,0 +1,27 @@
+{
+  "name": "mongoosedb",
+  "version": "1.0.0",
+  "description": "learning Node js and MongoDB schema",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/jaffaraman.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "jaffar aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/jaffaraman/issues"
+  },
+  "homepage": "https://github.com/github.com/jaffaraman#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5"
+  }
+}
